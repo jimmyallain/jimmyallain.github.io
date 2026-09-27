@@ -7,7 +7,7 @@ subtitle: PhD candidate in ecology at the University of La Rochelle, studying ha
 
 profile:
   align: right
-  image: /assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
 
 news: true
