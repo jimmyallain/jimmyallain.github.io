@@ -72,14 +72,17 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
 github_username: jimmyallain
-linkedin_username:
+linkedin_username: jimmy-allain
 scholar_userid:
 orcid_id: 0009-0008-0574-3176
 research_gate_profile: https://www.researchgate.net/profile/Jimmy-Allain
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
