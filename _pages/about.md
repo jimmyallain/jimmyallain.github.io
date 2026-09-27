@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: PhD candidate in ecology at the University of La Rochelle, studying habitat selection, movement ecology and conservation of shorebirds.
+subtitle: PhD candidate in ecology at the University of La Rochelle, France.
 
 profile:
   align: right
