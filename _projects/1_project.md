@@ -6,7 +6,7 @@ img: assets/img/12.jpg
 importance: 1
 category: research
 ---
-The HABITRACK project aims to provide crucial knowledge for the conservation of breeding, migration and wintering habitats for 14 species of huntable birds with non-secure conservation status in Europe. These species are in decline, and there is a severe lack of information on their habitat quality and quantity requirements. This information is needed to effectively organise the management and restoration of their habitats and ensure their conservation status is restored to a favourable level. --> https://habitrack.eu/?lang=en
+The [HABITRACK project](https://habitrack.eu) aims to provide crucial knowledge for the conservation of breeding, migratory and non-breeding habitats for 14 species of huntable birds with unfavourable conservation status in Europe.
 
 As part of my PhD, I combine high-resolution GPS tracking and accelerometry data with remote sensing imagery to investigate the habitat requirements and selection patterns of three shorebird species: the Black-tailed Godwit (Limosa limosa), Common Redshank (Tringa totanus) and Ruff (Calidris pugnax), across their breeding and non-breeding periods.
 
