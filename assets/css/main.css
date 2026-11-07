@@ -920,5 +920,9 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
     grid-column: none;
   }
 }
+.projects h2,
+.projects h3 {
+  text-transform: none !important;
+}
 
 /*# sourceMappingURL=main.css.map */
