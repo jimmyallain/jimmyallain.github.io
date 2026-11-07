@@ -7,7 +7,7 @@ importance: 3
 category: research
 ---
 
-### The Tuit-tuit: an endangered endemic forest bird
+### "Tuit-tuit": an endangered endemic forest bird
 
 The Tuit-tuit (*Lalage newtoni*) is a Critically Endangered passerine endemic to Réunion Island. It is restricted to native high-altitude forests (1,000–1,800 m) in the north-western part of the island.
 
