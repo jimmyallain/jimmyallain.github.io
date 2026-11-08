@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Education
 
-**2024–2027 | PhD in Spatial Ecology – HABITRACK project**
+**2024–2027 &#124; PhD in Spatial Ecology – HABITRACK project**
 
 University of La Rochelle, France
 
