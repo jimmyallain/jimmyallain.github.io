@@ -13,3 +13,7 @@ As part of my PhD, I combine high-resolution GPS tracking and accelerometry data
 My research spans multiple spatial scales, from individual habitat use and species-level patterns to community-level processes, and from local landscapes to the wider distribution ranges of these species. With a particular focus on the East Atlantic Flyway, I investigate how habitat availability, environmental conditions and landscape characteristics shape shorebird movements and habitat selection throughout the annual cycle.
 
 Ultimately, this project aims to improve our understanding of shorebird habitat requirements and inform evidence-based conservation strategies and habitat management policies across their breeding and non-breeding ranges.
+
+## Related publications
+
+- **Allain, J., Monnet, A.-C., Jiguet, F., et al. (2026).** [Latitude, habitat and reproductive outcome shape breeding space use in common redshanks: First insights from GPS tracking across European landscapes](https://doi.org/10.1016/j.gecco.2026.e04291). *Global Ecology and Conservation*, 69, e04291.
