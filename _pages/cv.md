@@ -49,13 +49,13 @@ Responsible for monitoring populations of seabirds and marine mammals. Field act
 
 Participation in a field campaign dedicated to the long-term monitoring of Black Redstarts. Activities included GLS deployment, bird ringing, bioacoustic monitoring and database management.
 
-**2020 &#124; Research Assistant – Behavioural and Animal Ecology Research Group, UQAM, Canada (6 months)**
+**2020 &#124; Master's Thesis – Behavioural and Animal Ecology Research Group, UQAM, Canada (6 months)**
 
 Research on reproductive senescence in chipmunks in relation to age at primiparity. Statistical modelling and analyses in R, and database preparation using longitudinal capture–mark–recapture data.
 
-**2019 &#124; Master's Thesis – Institute of Ecology and Environmental Sciences of Paris, France (2 months)**
+**2019 &#124; Institute of Ecology and Environmental Sciences of Paris, France (2 months)**
 
-*The influence of temperature and habitat on the phenology and reproductive success of the Great Tit (*Parus major*).*
+Thesis: *The influence of temperature and habitat on the phenology and reproductive success of the Great Tit (*Parus major*).*
 
 Fieldwork included bird ringing, blood sampling for DNA analyses, blood smear preparation and biometric measurements, followed by statistical analyses.
 
