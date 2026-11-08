@@ -11,7 +11,7 @@ Long-distance migratory birds crossing open-water and mountains barriers face se
 
 We combined GPS tracking data of Black-tailed godwit and Common redshank with OPERA weather radar reflectivity extracted along both real and simulated trajectories, to test whether birds actively avoided storm cells during the crossing. We compared the proportion of radar returns with positive reflectivity and mean reflectivity intensity between trajectories that ended in a reversal (U-turn) and those that did not, and between real and simulated trajectories.
 
-{% include figure.html path="assets/img/projects/image3.JPG" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/projects/image3.jpg" class="img-fluid rounded z-depth-1" %}
 
 These findings provide fine-scale, individual-based evidence that shorebirds anticipate and actively avoid deteriorating weather during a high-stakes open-water crossing, with implications for understanding migratory decision-making at bottleneck sites across the flyway.
 
