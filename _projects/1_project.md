@@ -10,7 +10,7 @@ The [HABITRACK project](https://habitrack.eu) aims to provide crucial knowledge 
 
 As part of my PhD, I combine high-resolution GPS tracking and accelerometry data with remote sensing imagery to investigate the habitat requirements and selection patterns of three shorebird species: the Black-tailed Godwit (Limosa limosa), Common Redshank (Tringa totanus) and Ruff (Calidris pugnax), across their breeding and non-breeding periods.
 
-{% include figure.html path="assets/img/projects/ruff_tag.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/projects/ruff_tag.JPG" class="img-fluid rounded z-depth-1" %}
 
 My research spans multiple spatial scales, from individual habitat use and species-level patterns to community-level processes, and from local landscapes to the wider distribution ranges of these species. With a particular focus on the East Atlantic Flyway, I investigate how habitat availability, environmental conditions and landscape characteristics shape shorebird movements and habitat selection throughout the annual cycle.
 
@@ -18,10 +18,10 @@ Ultimately, this project aims to improve our understanding of shorebird habitat 
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/projects/IMG_4118.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/IMG_4118.JPG" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/projects/IMG_4149.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/IMG_4149.JPG" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
