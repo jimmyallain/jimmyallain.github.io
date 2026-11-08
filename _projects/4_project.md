@@ -25,7 +25,7 @@ These long-term monitoring efforts contribute to understanding how marine predat
     {% include figure.html path="assets/img/projects/EMP.JPG" caption="Emperor penguin © J. Allain" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3">
-    {% include figure.html path="assets/img/projects/Manip_phoque.JPG" caption="A young Weddell seal during a tagging operation" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/manip_phoque.JPG" caption="A young Weddell seal during a tagging operation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3">
     {% include figure.html path="assets/img/projects/IMG_2233.JPG" caption="Snow petrel © J. Allain" class="img-fluid rounded z-depth-1" %}
