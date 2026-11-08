@@ -11,7 +11,7 @@ category: research
 
 The Tuit-tuit (*Lalage newtoni*) is a Critically Endangered passerine endemic to Réunion Island. It is restricted to native high-altitude forests (1,000–1,800 m) in the north-western part of the island.
 
-{% include figure.html path="assets/img/projects/tuittuit.JPG" title="Tuit-tuit (*Lalage newtoni*) © Jaime Martinez." class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/projects/tuittuit.jpg" caption="Tuit-tuit (*Lalage newtoni*) © Jaime Martinez." class="img-fluid rounded z-depth-1" %}
 
 **Main threats**
 
@@ -27,10 +27,10 @@ During my stay on the island, I also helped out at the wildlife rescue center wi
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/projects/relache_PB.JPG" title="Barau's (*Petrel Pterodroma baraui*)
+    {% include figure.html path="assets/img/projects/relache_PB.JPG" caption="Barau's (*Petrel Pterodroma baraui*)
 " class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.html path="assets/img/projects/PN_bourbon.JPG" title=" Mascarene Petrel (*Pseudobulweria aterrima*) © J. Allain" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/PN_bourbon.JPG" caption=" Mascarene Petrel (*Pseudobulweria aterrima*) © J. Allain" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
