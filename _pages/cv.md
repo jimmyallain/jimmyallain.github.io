@@ -23,9 +23,9 @@ University of Angers, France
 
 ---
 
-## Recent field missions
+## Recent Field Missions
 
-**2026 | Northern Lapland – Finland (2 weeks)**
+**2026 | Northern Lapland, Finland (2 weeks)**
 
 Capture and GPS tagging of Ruff (*Calidris pugnax*).
 
