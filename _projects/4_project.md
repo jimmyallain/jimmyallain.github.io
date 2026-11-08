@@ -10,6 +10,9 @@ category: research
 
 Recruited by the French Polar Institute (IPEV) and the Centre d'Etudes Biologiques de Chizé (CEBC), I spent 15 months at the Dumont d’Urville research station in Adélie Land, Antarctica, implementing the research programme *Marine birds and mammals as sentinels of global change in the Southern Ocean*.
 
+{% include figure.html path="assets/img/projects/Manip_PGA.JPG" caption="Fitting a GLS tag on an Southern Giant Petrel" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/projects/adelie.JPG" caption="Adélie penguin © J. Allain" class="img-fluid rounded z-depth-1" %}
+
 My main responsibilities involved conducting long-term demographic monitoring of marine predators, including seabirds and seals. This work combined a range of field methods, including bird ringing, capture–recapture, transponder tagging, population censuses, breeding monitoring and telemetry.
 
 These long-term monitoring efforts contribute to understanding how marine predator populations respond to environmental changes in the Southern Ocean, providing valuable indicators of broader ecosystem changes.
@@ -25,7 +28,7 @@ These long-term monitoring efforts contribute to understanding how marine predat
     {% include figure.html path="assets/img/projects/Manip_phoque.JPG" caption="A young Weddell seal during a tagging operation" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3">
-    {% include figure.html path="assets/img/projects/PGA.JPG" caption="Caption 4 © J. Allain" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/projects/IMG_2233.JPG" caption="Snow petrel © J. Allain" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
