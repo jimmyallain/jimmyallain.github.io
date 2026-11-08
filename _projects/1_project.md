@@ -2,7 +2,7 @@
 layout: page
 title: HABITRACK
 description: Investigating habitat selection, movement ecology and conservation of migratory shorebirds
-img: assets/img/12.jpg
+img: assets/img/projects/IMG_4118.JPG
 importance: 1
 category: research
 ---
