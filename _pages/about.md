@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 
-subtitle: PhD candidate in ecology at the University of La Rochelle, France.
+subtitle: PhD candidate in spatial ecology at the University of La Rochelle, France.
 
 profile:
   align: right
