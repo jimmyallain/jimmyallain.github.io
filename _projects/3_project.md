@@ -2,7 +2,7 @@
 layout: page
 title: Endemic birds of Réunion Island
 description: Conservation of endemic bird species on Réunion Island.
-img: assets/img/5.jpg
+img: assets/img/projects/tuittuit.jpg
 importance: 3
 category: research
 ---
