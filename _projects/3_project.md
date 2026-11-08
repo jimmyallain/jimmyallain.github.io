@@ -20,3 +20,5 @@ Introduced rats and feral cats are major threats to the species, preying on eggs
 Annual conservation programmes combine rat control campaigns with the monitoring of breeding territories and pairs. Field surveys across forest massifs are conducted over several days to locate singing males and identify active nests. Repeated visits to monitored territories make it possible to assess breeding success, notably by recording fledglings leaving their nests.
 
 This work was carried out at the SEOR (Reunion Island Ornithological Society).
+
+During my stay on the island, I also helped out at the wildlife rescue center with missions to rescue seabirds (Barau's Petrel, Bourbon Black Petrel, Shearwater, etc.).
