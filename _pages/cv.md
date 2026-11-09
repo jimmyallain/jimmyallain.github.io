@@ -47,7 +47,7 @@ Responsible for monitoring populations of seabirds and marine mammals. Field act
 
 **2021 &#124; Volunteer Research Assistant – Lund University, Sweden (3 months)**
 
-Participation in a field campaign dedicated to the long-term monitoring of Black Redstarts. Activities included GLS deployment, bird ringing, bioacoustic monitoring and database management.
+Participation in a field campaign dedicated to the long-term monitoring of Pied flycatcher. Activities included GLS deployment, bird ringing, bioacoustic monitoring and database management.
 
 **2020 &#124; Master's Thesis – Behavioural and Animal Ecology Research Group, UQAM, Canada (6 months)**
 
