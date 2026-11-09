@@ -7,7 +7,7 @@ subtitle: PhD candidate in spatial ecology at the University of La Rochelle, Fra
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false
 
 news: false
